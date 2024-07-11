@@ -1,0 +1,31 @@
+# Ignore all hidden files and directories in the home path
+../../../../.*
+
+# Ignore specific directories
+../../../cc/
+../../../check_to_delet_1/
+../../../glT2/
+../../../oop/
+../../../ss1/
+../../../ss2/
+../../../ss_tests/
+../../../syber/
+../../ex1_t_1_os/
+../../ex2_t1_os/
+../../presentaion_os_1/
+
+# Ignore specific files
+../../211691159_322318080_OS1_1.tar.gz
+../../../../.vscode/
+../../../../Downloads/
+../../../../IdeaProjects/
+../../../../Pictures/
+../../../../PycharmProjects/
+../../../../Python-3.9.0/
+../../../../SS1ex_1/
+../../../../Templates/
+../../../../a.txt
+../../../../file1.txt
+../../../../file2.txt
+../../../../snap/
+../../../../ss_ex_1_t1/
